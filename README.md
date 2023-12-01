@@ -1,3 +1,1 @@
 Midjourney Helper
-
-Scraft studio
